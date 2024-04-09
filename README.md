@@ -34,4 +34,15 @@ Application that works with the location and weather API.
 
 ## Usage
 
-https://share.icloud.com/photos/0ddau5oRLH4bNo_lwLWoCdSkA
+### Application launch
+
+https://github.com/vova3plv/Weather-Forecast-Brick/assets/156924040/4af9aa09-ef16-4364-ba41-7daa9c68acf0
+
+### Application performance
+
+https://github.com/vova3plv/Weather-Forecast-Brick/assets/156924040/af6e4d3f-f834-4d7d-b387-bc07133bae91
+
+### No internet connection
+
+https://github.com/vova3plv/Weather-Forecast-Brick/assets/156924040/8b3fdae4-bec9-40ea-a242-9867c8f3c550
+
