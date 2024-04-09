@@ -31,3 +31,7 @@ Application that works with the location and weather API.
  - Design instruments: Figma
  - XCTests
  - SnapshotTesting
+
+## Usage
+
+https://share.icloud.com/photos/0ddau5oRLH4bNo_lwLWoCdSkA
